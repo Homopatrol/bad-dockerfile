@@ -6,7 +6,7 @@ MAINTAINER adrianp@stindustries.
 #
 # The default is empty (no special options).
 #
-ARG CURL_OPTIONS=""
+#ARG CURL_OPTIONS=""
 
 # Prep environment
 #
