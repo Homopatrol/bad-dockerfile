@@ -9,7 +9,7 @@ MAINTAINER adrianp@stindustries.
 ARG CURL_OPTIONS=""
 
 # Prep environment
-# 
+# test
 RUN yum -y install deltarpm && yum -y update
 
 # Install build utils
